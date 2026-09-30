@@ -82,12 +82,12 @@ O TONET é um **projeto de longo prazo desenvolvido em equipe**.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=090909&title_color=ff3030&text_color=f2f2f2&icon_color=ff3030&border_color=ff3030"
+    src="https://github-readme-stats.vercel.app/api?username=davi-abmo&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=090909&title_color=ff3030&text_color=f2f2f2&icon_color=ff3030&border_color=ff3030"
     height="170"
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&bg_color=090909&title_color=ff3030&text_color=f2f2f2&icon_color=ff3030&border_color=ff3030"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-abmo&layout=compact&langs_count=7&bg_color=090909&title_color=ff3030&text_color=f2f2f2&icon_color=ff3030&border_color=ff3030"
     height="170"
     alt="Most Used Languages"
   />

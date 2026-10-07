@@ -10,7 +10,7 @@
 
 ---
 
-## Sobre mim
+## 👤 Sobre mim
 
 Olá! Eu sou **Davi**, estudante do **2º ano do curso técnico de Informática integrado ao Ensino Médio pelo IFPI**.
 
@@ -27,7 +27,7 @@ Tenho interesse especial por:
 
 ---
 
-## Tecnologias que estou aprendendo
+## 🛠️ Tecnologias que estou aprendendo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ruby,rails,godot,js,html,css,blender&theme=dark&perline=7" alt="Ruby, Ruby on Rails, GDScript, JavaScript, HTML5, CSS3 e Blender">
@@ -45,7 +45,7 @@ Tenho interesse especial por:
 
 ---
 
-# 🔥 TONET
+# 🚀 TONET
 
 <div align="center">
 
@@ -70,7 +70,7 @@ A proposta é ajudar artistas a apresentarem seu trabalho, encontrarem oportunid
 
 O TONET é um **projeto de longo prazo desenvolvido em equipe**.
 
-### Projeto
+### 📌 Projeto
 
 | Repositório | Site | Status |
 |:---:|:---:|:---:|
@@ -78,7 +78,7 @@ O TONET é um **projeto de longo prazo desenvolvido em equipe**.
 
 ---
 
-## GitHub
+## 📊 GitHub
 
 <p align="center">
   <img
@@ -97,7 +97,7 @@ O TONET é um **projeto de longo prazo desenvolvido em equipe**.
 
 ---
 
-## Social
+## 📱 Social
 
 <p align="center">
   <a href="https://www.instagram.com/davi_.abmo/">
